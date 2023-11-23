@@ -52,7 +52,7 @@ const Header = () => {
 					fontWeight='bold'
 					size='md'
 					letterSpacing='wide'>
-					RST Store
+					Trendzz Store
 				</Heading>
 			</Link>
 
